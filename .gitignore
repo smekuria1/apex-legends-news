@@ -1,3 +1,5 @@
 venv
 build
 apexNews.spec
+__pycache__
+
